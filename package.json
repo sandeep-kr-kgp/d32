@@ -1,0 +1,20 @@
+{
+  "authors": [
+  "Juat Chekcing"
+  ],
+  "bundleDependencies": false,
+  "dependencies": false,
+  "deprecated": false,
+  "description": "D3",
+  "gitHead": "84e03109d9a590f9c8ef687c03d751f666080c6f",
+  "homepage": "https://github.com/d3js/c3#readme",
+  "keywords": [
+    "d3",
+    "chart",
+    "graph"
+  ],
+  "license": "MIT",
+  "main": "d32.js",
+  "name": "d32",
+  "version": "0.1.0"
+}
